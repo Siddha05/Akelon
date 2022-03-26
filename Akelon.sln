@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akelon", "Akelon\Akelon.csproj", "{70D00111-6498-4C33-AFF8-391533DD96C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkelonTests", "AkelonTests\AkelonTests.csproj", "{D6A94773-B503-4A25-A6B2-AE2324EAE132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D00111-6498-4C33-AFF8-391533DD96C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D00111-6498-4C33-AFF8-391533DD96C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D00111-6498-4C33-AFF8-391533DD96C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D00111-6498-4C33-AFF8-391533DD96C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A94773-B503-4A25-A6B2-AE2324EAE132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A94773-B503-4A25-A6B2-AE2324EAE132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A94773-B503-4A25-A6B2-AE2324EAE132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A94773-B503-4A25-A6B2-AE2324EAE132}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C31AD8A3-215F-43D1-8070-B72B4DE99D32}
+	EndGlobalSection
+EndGlobal
